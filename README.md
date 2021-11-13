@@ -25,8 +25,6 @@ NCBI web database - https://www.ncbi.nlm.nih.gov/
 
 ### Existing Products:
 NYC Covid Safe App - https://apps.apple.com/us/app/nyc-covid-safe/id1565213506
-Aarogya Setu App - 
-https://apps.apple.com/in/app/aarogyasetu/id1505825357
-Labcorp | Patient - 
-https://apps.apple.com/us/app/labcorp-patient/id1361264072
+Aarogya Setu App - https://apps.apple.com/in/app/aarogyasetu/id1505825357
+Labcorp | Patient - https://apps.apple.com/us/app/labcorp-patient/id1361264072
 
