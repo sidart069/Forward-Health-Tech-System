@@ -3,6 +3,8 @@
 ### Prototype :
 https://marvelapp.com/prototype/d1fb80i/screen/83296921
 
+## Architecture Diagram
+![Architecture](Architecture/Forward_Health_Tech_Systems-Architecture.png)
 
 ### Project Description: 
 The project deals with solving the global pandemic using Cloud-based services like S3, Lex chatbot, Sagemaker, Lambda, API gateway, Cognito, AWS Web, ECS for containerization. The facility will be provided to the patient at the comfort of their home. The idea is to provide appointment booking, DNA sample collection, and a report delivery mechanism to the end-user. There will be various stakeholders using this application. They are as follows, the Patient User, the DNA sample Lab user, the Sample collector, and the Doctors or Government Department to whom the positive reports will be sent.
