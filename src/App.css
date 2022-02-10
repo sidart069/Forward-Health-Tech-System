@@ -1,0 +1,92 @@
+h1 {
+  font-size: 2.5em;
+}
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.qrcontainer {
+  margin-top: 4em;
+}
+.product-title {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.product-id {
+  font-size: 0.8em;
+  margin: 1em 0;
+}
+
+.product-edit-icon {
+  opacity: 0.7;
+  position: absolute;
+  right: 2.3rem;
+  top: 0.4rem;
+}
+
+.product-edit-icon:hover {
+  opacity: 1;
+}
+
+.navbar,
+.navbar-end,
+.navbar-mid,
+.navbar-menu,
+.navbar-start {
+  align-items: stretch !important;
+  display: flex !important;
+}
+
+.navbar-menu {
+  flex-grow: 1 !important;
+  flex-shrink: 0 !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+
+.navbar-item {
+  display: flex !important;
+}
+
+.navbar-end {
+  justify-content: flex-end !important;
+  margin-left: auto !important;
+}
+
+.navbar-mid {
+  display: flex !important;
+  justify-content: center !important;
+  margin-left: auto !important;
+}
+
+.features {
+  padding-bottom: 3em;
+}
+
+body {
+  visibility: visible !important;
+}
+
+.auth form {
+  margin-top: 1em;
+  max-width: 50%;
+}
+
+.buttons {
+  margin-left: 1em;
+}
+
+.loader {
+  border: 16px solid #f3f3f3; /* Light grey */
+  border-top: 16px solid #3498db; /* Blue */
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
